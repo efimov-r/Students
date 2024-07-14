@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropsFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <XMLFileName>C:\csh_proj\stud\Stud\Stud\bin\Debug\settings.xml</XMLFileName>
+  <fivestart>false</fivestart>
+  <serverName>localhost</serverName>
+  <userName>root</userName>
+  <dbName>styd</dbName>
+  <port>3306</port>
+  <password>root</password>
+</PropsFields>
